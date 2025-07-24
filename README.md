@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Generative Attacks on Neural Nets](https://github.com/gauravbhatt123/generative-attacks-on-neural-nets)
 
-- 👯 I’m looking to collaborate on **Android Applications and Compiler Tools**
+- 👯 I’m looking to collaborate on **Android Applications**
 
 - 💬 Ask me about **Android Development, Cybersecurity, System Programming**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1FiDrBkWREfL5Fx1ZbSxweFN82vUUfxx7/view?usp=sharing)
 
-- ⚡ Fun fact **I love talking about anime, manga, and compilers — sometimes all at once 😄**
+- ⚡ Fun fact **I love talking about anime, manga, and chess — sometimes all at once 😄**
 
 ---
 
