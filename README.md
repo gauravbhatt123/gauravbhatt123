@@ -1,69 +1,21 @@
-# 👋 Hi, I'm Gaurav Bhatt
+<h1 align="center">Hi 👋, I'm Gaurav Bhatt</h1>
+<h3 align="center">A passionate Android and systems developer from India</h3>
 
-🎓 I'm a Computer Science undergrad at **Graphic Era University**, Dehradun (2022–2026), passionate about building scalable software and solving real-world problems using code. I love working at the intersection of **systems, development, and machine intelligence**.
+- 🔭 I’m currently working on [generative-attacks-on-neural-nets](https://github.com/gauravbhatt123/generative-attacks-on-neural-nets)
 
----
+- 👯 I’m looking to collaborate on **Android app Applications**
 
-## 💼 Experience
+- 💬 Ask me about **Android Development, Cybersecurity, System Programming**
 
-### 🔹 Salesforce Developer Intern (Virtual) — *May 2025 – July 2025*
-- Built CRM workflows and custom components using **Apex**, **SOQL**, and **Lightning Web Components**.
-- Improved query performance by 40% through optimization and caching strategies.
-- Developed scalable enterprise apps using **Flow Builder**, automated system tasks, and executed sandbox testing.
-- Completed **25+ Trailhead modules** and **6 Superbadges** simulating enterprise design patterns.
+- 📫 How to reach me **bhattgaurav2509@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FiDrBkWREfL5Fx1ZbSxweFN82vUUfxx7/view?usp=sharing](https://drive.google.com/file/d/1FiDrBkWREfL5Fx1ZbSxweFN82vUUfxx7/view?usp=sharing)
 
-## 🚀 Projects
+- ⚡ Fun fact **I love talking about anime,manga**
 
-### 🔄 [C++ to Java Transpiler](https://github.com/DeveshKapil/Transpiler)
-- Designed a full-fledged transpiler using custom **lexer, parser, and AST** for source-to-source conversion.
-- Handled type inference, semantic analysis, and symbol table logic to ensure accuracy.
-- Converted 85%+ C++ constructs to Java with <5% manual fixes over 20+ real codebases.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### 📱 [Fitness Tracker App](https://github.com/gauravbhatt123/Fitness_Tracker)
-- Developed with **Kotlin**, **Jetpack Compose**, and **MVVM** architecture.
-- Integrated **Google Fit API**, **Firebase Auth**, and **Firestore** for real-time tracking and cloud sync.
-- Achieved 50+ installs during testing and improved tracking accuracy by 95%.
-
-### ➗ [BigInteger Arithmetic Library](https://github.com/gauravbhatt123/BigInteger)
-- Built a custom library in **C** supporting operations on integers up to 10^1000.
-- Implemented all basic arithmetic using **linked lists** with 100% accuracy.
-- Optimized algorithms to reduce runtime by 30% over naïve approaches.
-
----
-
-## 🛠️ Skills
-
-**Languages:** Kotlin, Java, Python, C++, C, JavaScript  
-**Tools:** Git, GitHub, Postman, Figma, VS Code  
-**Databases:** Firebase, MySQL  
-**Frameworks & APIs:** Jetpack Compose, REST APIs  
-**Core Concepts:** Networking, Firewalls, OOP, Operating Systems  
-
----
-
-## 📜 Certifications
-
-- 🧠 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) *(May 2025)*
-- ☁️ AWS Certified Cloud Practitioner *(Feb 2025)*
-- 📱 Complete Android 14 & Kotlin Development *(Oct 2024)*
-
----
-
-## 🏆 Achievements
-
-- Solved **300+ DSA problems** on LeetCode  
-- Participated in **Smart India Hackathon** and **Graphethon**, leading team-based solution development under pressure
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gaurav-bhatt-1a3584248/)
-- 💻 [GitHub](https://github.com/gauravbhatt123)
-- 📧 bhattgaurav2509@gmail.com
-
----
-
-🌱 *Always exploring new tech and building things that matter.*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
