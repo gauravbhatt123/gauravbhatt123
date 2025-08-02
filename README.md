@@ -1,53 +1,23 @@
-<h1 align="center">Hi 👋, I'm Gaurav Bhatt</h1>
-<h3 align="center">A passionate Android and systems developer from India</h3>
+### Hi Geek!!
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravbhatt123&theme=gruvbox&title=Commit,Repositories,Stars,Followers" alt="trophies" /></a>
-</p>
-
-- 🔭 I’m currently working on [Generative Attacks on Neural Nets](https://github.com/gauravbhatt123/generative-attacks-on-neural-nets)
-
-- 👯 I’m looking to collaborate on **Android Applications**
-
-- 💬 Ask me about **Android Development, Cybersecurity, System Programming**
-
-- 📫 How to reach me **bhattgaurav2509@gmail.com**
-
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1FiDrBkWREfL5Fx1ZbSxweFN82vUUfxx7/view?usp=sharing)
-
-- ⚡ Fun fact **I love talking about anime, manga, and chess — sometimes all at once 😄**
+- 👋 I’m **Gaurav Bhatt**, a B.Tech CSE student at Graphic Era University (2022–2026).
+- 💻 I enjoy building real-world software solutions and doing competitive programming.
+- 🌱 Currently exploring Android development, system design, and cybersecurity.
+- ⚡ Hobbies: Chess, Anime, exploring tech.
+- 📫 Reach me at: **bhattgaurav2509@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/gaurav-bhatt-1a3584248/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:bhattgaurav2509@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
-  </a>
-</p>
+### 📌 My Social Media Handles
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gaurav-bhatt-1a3584248/)
+[<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/gauravbhatt123)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+### 👨‍💻 My Projects
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravbhatt123&show_icons=true&theme=tokyonight" alt="gauravbhatt123 GitHub stats" />
-</p>
+- 🔁 [C++ to Java Transpiler](https://github.com/DeveshKapil/Transpiler) – Automated C++ to Java source translation using a custom lexer, parser and AST.
+- 🏃‍♂️ [Fitness Tracker App](https://github.com/gauravbhatt123/Fitness_Tracker) – Kotlin Android app with Google Fit API and Firebase real-time DB.
+- 🔢 [BigInteger Arithmetic Library](https://github.com/gauravbhatt123/BigInteger) – C library to handle integers up to \(10^{1000}\) using linked lists.
+- 🛡️ [URL Security Middleware](https://github.com/gauravbhatt123/url-security-middleware) – Real-time URL threat analysis for proxy servers using a CNN-LSTM model, FastAPI, hybrid rule-based detection, and explainable scoring.
